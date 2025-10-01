@@ -68,7 +68,7 @@ Thor-FanPage/
    ```bash
    git clone https://github.com/yourusername/thor-fanpage.git
 2. Navigate to the project folder:
-   
+   ```bash
   cd thor-fanpage
   
 3. Open index.html in your browser to view the site.
